@@ -25,6 +25,7 @@ Smart Googles, an automated device to alert the blind that uses ultrasonic waves
 <img src="https://user-images.githubusercontent.com/68593617/193614221-f09e2cf6-9c77-4651-b653-a66c9dd7932c.jpeg"  width=50%>
 
 ### Circuit Diagram : Tinkercad
+<img src="https://user-images.githubusercontent.com/68593617/193627644-4a88f2f6-9723-48f9-9e52-6b36c71d72f8.jpg" width=70%>
 
 <hr>
 
