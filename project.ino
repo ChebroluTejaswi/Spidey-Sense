@@ -29,11 +29,11 @@ void loop() {
     // this part of the code below determines whether to
     // beep depending on the distance detected.
     
-    if (distance > 20 and distance < 60) { 
+    if (distance > 31 and distance < 60) { 
         tone(buzzer,50,10); 
         Serial.println(" low");
     }
-    else if (distance > 0 and distance < 20) { 
+    else if (distance > 0 and distance < 30) { 
         tone(buzzer,100); 
         Serial.println(" high");
     }

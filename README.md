@@ -11,7 +11,7 @@ Smart Googles, an automated device to alert the blind that uses ultrasonic waves
 
 <hr>
 
-### Required Components
+### 🏁 Required Components
 
     1. Aurdino Board
     2. UltraSonic sensor
@@ -33,15 +33,15 @@ Smart Googles, an automated device to alert the blind that uses ultrasonic waves
 <img src="https://user-images.githubusercontent.com/68593617/193617401-85bda977-b269-4fce-a209-002f7dd2d8f8.png" width=50%>
 
 
-### Video link
+### 🎥 Demo / Working
 <a href="https://youtu.be/5dcKNW6y1MA">Demo</a>
 <hr>
 
-### Future Enhancements
+### 💭 Future Enhancements
 <p>The entire project can be built in the shape of a jacket, allowing us to detect obstacles from all sides. Using specially designed boards rather than Arduino and high-quality ultrasonic sensors can result in faster response, allowing the device to work efficiently in a crowd.
 
 
-## <p style="text-align: center">Made with &#9829;</p>
+### ✍️ Authors
 <p>
     <a href="https://github.com/ChebroluTejaswi"><img src="https://avatars.githubusercontent.com/u/68593617" height=50 width=50></a>&nbsp;
     <a href="https://github.com/PoojithaGuniputi"><img src="https://avatars.githubusercontent.com/u/88592906" height=50 width=50></a>&nbsp;
